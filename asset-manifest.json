@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3ed72dd.css",
+    "main.js": "/static/js/main.516d8325.js",
+    "static/media/6256458.jpg": "/static/media/6256458.c58c6860732a2fc986bc.jpg",
+    "static/media/algologo.png": "/static/media/algologo.9c67a12cefc63965b436.png",
+    "static/media/orderbooking.webp": "/static/media/orderbooking.4f0c962e7353aa553036.webp",
+    "static/media/arrow-right.png": "/static/media/arrow-right.3756871f30192356246f.png",
+    "static/media/view.png": "/static/media/view.67789efb068a2f096248.png",
+    "static/media/hide.png": "/static/media/hide.54b3107d160578572bcc.png",
+    "static/media/angelone.avif": "/static/media/angelone.c5e1e89aa981f4780223.avif",
+    "index.html": "/index.html",
+    "main.e3ed72dd.css.map": "/static/css/main.e3ed72dd.css.map",
+    "main.516d8325.js.map": "/static/js/main.516d8325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ed72dd.css",
+    "static/js/main.516d8325.js"
+  ]
+}
